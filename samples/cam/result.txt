@@ -1,0 +1,1 @@
+   Acc using 5 px 2D Projection = 89.12%   Acc using 10% threshold - 17.249224864755515 vx 3D Transformation = 66.78%   Acc using 5 cm 5 degree metric = 51.35%   Mean 2D pixel error is 3.494540, Mean vertex error is 17.273575   Translation error: 16.014146 m, angle error: 5.808304 degree, pixel error:  3.494540 pix
